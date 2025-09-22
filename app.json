@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Shalom",
+    "slug": "shalom",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#3b82f6",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "backgroundColor": "#3b82f6"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "sdkVersion": "51.0.0",
+    "platforms": ["ios", "android", "web"],
+    "scheme": "shalom"
+  }
+}
